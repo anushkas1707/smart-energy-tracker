@@ -1,4 +1,4 @@
-# 🔌 Smart Energy Consumption Tracker
+#  Smart Energy Consumption Tracker
 
 A Spring Boot-based system to monitor household electricity usage in real-time, detect anomalies and predict future consumption using data analysis.
 
