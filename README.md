@@ -4,7 +4,7 @@ A Spring Boot-based system to monitor household electricity usage in real-time, 
 
 ![Dashboard Preview](docs/dashboard-screenshot.png) 
 
-## 🚀 Features
+## Features
 
 - **Real-time monitoring** of energy/water usage via IoT sensors (MQTT).
 - **Anomaly detection** (threshold-based or ML-powered).
@@ -12,7 +12,7 @@ A Spring Boot-based system to monitor household electricity usage in real-time, 
 - **Interactive dashboard** (React.js + Chart.js).
 - **Automated alerts** (Email/SMS for abnormal usage).
 
-## 🛠 Tech Stack
+##  Tech Stack
 
 | Component               | Technology                          |
 |-------------------------|-------------------------------------|
