@@ -2,7 +2,8 @@
 
 A Spring Boot-based system to monitor household electricity usage in real-time, detect anomalies and predict future consumption using data analysis.
 
-![Dashboard Preview](docs/dashboard-screenshot.png) 
+![Dashboard Preview](https://github.com/user-attachments/assets/12fcc316-71b9-4e74-8e63-4537ee92557c)
+
 
 ## Features
 
